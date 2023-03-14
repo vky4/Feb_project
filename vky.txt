@@ -1,2 +1,13 @@
 hi hello
-
+basic linux commands
+ll
+ls 
+ls -lrt
+pwd
+pf -eaf
+ln -nfs
+cat 
+less
+zless
+gzip
+gunzip
